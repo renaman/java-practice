@@ -1,0 +1,10 @@
+
+public class Chapter08 {
+	public static void main(String[] args) {
+		int num1 = 1;
+		while (num1 < 5) {
+			num1 *= 2;
+			System.out.println(num1);
+		}
+	}
+}

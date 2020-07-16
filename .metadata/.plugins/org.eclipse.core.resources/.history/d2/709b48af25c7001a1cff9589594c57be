@@ -1,0 +1,15 @@
+
+public class Chapter08 {
+	public static void main(String[] args) {
+		int num1 = 1;
+		while (num1 < 5) {
+			num1 *= 2;
+			System.out.println(num1);
+		}
+		
+		int[] array = {1, 10, 20, 30};
+		for (int num2 = 0; num2 < array.length; num2++) {
+			System.out.println(num2);
+		}
+	}
+}
