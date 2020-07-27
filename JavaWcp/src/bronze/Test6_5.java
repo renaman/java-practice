@@ -8,7 +8,7 @@ public class Test6_5 {
 		System.out.println("num =" + num);
 	}
 	
-	static int calc(int num) {
-		return num += 100;
+	static void calc(int num) {
+		num += 100;
 	}
 }

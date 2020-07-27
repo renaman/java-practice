@@ -7,7 +7,7 @@ public class Test4_15 {
 			do {
 				i += j;
 				if (--j == 0) break Loop;
-				System.out.print("i=" + i + "j=" + j +  "");
+				System.out.print("i=" + i + "j" + j +  "");
 			} while (i < 30);
 		}
 	}

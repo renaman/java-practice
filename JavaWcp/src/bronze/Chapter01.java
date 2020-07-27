@@ -8,6 +8,6 @@ public class Chapter01 {
 		array2[1] = 'y';
 		array2[2] = 'e';
 		array1 = array2;
-		System.out.println(array1[1]);
+		System.out.println(array1);
 	}
 }
